@@ -1,5 +1,7 @@
 # Skolni projekt
 
+zmena z clonovaneho repa
+
 - odrazky
 - vice odrazek
 
